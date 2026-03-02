@@ -8,6 +8,8 @@
     "jwt-token",
     "oauth2-keycloak"
   ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "repositories": [
       {
           "type": "vcs",
