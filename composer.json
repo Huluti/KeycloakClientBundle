@@ -8,9 +8,15 @@
     "jwt-token",
     "oauth2-keycloak"
   ],
+  "repositories": [
+      {
+          "type": "vcs",
+          "url": "https://github.com/Huluti/oauth2-keycloak"
+      }
+  ],
   "require": {
     "php": ">=8.2",
-    "stevenmaguire/oauth2-keycloak": "^5.1",
+    "stevenmaguire/oauth2-keycloak": "dev-master",
     "symfony/routing": "^6.4 || ^7.2",
     "symfony/security-bundle": "^6.4 || ^7.2",
     "symfony/http-kernel": "^6.4 || ^7.2",
