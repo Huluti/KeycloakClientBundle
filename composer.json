@@ -8,14 +8,6 @@
     "jwt-token",
     "oauth2-keycloak"
   ],
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "repositories": [
-      {
-          "type": "vcs",
-          "url": "https://github.com/Huluti/oauth2-keycloak"
-      }
-  ],
   "require": {
     "php": ">=8.2",
     "stevenmaguire/oauth2-keycloak": "dev-master",
