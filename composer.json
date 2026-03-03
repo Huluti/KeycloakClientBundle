@@ -10,7 +10,7 @@
   ],
   "require": {
     "php": ">=8.2",
-    "stevenmaguire/oauth2-keycloak": "dev-master",
+    "stevenmaguire/oauth2-keycloak": "^6.0",
     "symfony/routing": "^6.4 || ^7.2",
     "symfony/security-bundle": "^6.4 || ^7.2",
     "symfony/http-kernel": "^6.4 || ^7.2",
